@@ -1,0 +1,40 @@
+.jumbotron{
+text-align: center;
+background: none;
+}
+.light{
+    background-color: #eceeef;
+}
+.button1{
+    display: block;
+    margin: auto;
+    background-color: darkblue;
+}
+.image{
+    padding: 10px;
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+.btn1{
+   display: block;
+    margin: auto;
+    width: 280px;
+    margin-bottom: 10px;
+}
+.footerimg{
+    width: 50%;
+}
+.fa-facebook-square{
+    color: #3b5998;
+    margin-top: 35px;
+}
+.fa-google-plus{
+    color: #c32f10;
+    margin-top: 35px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.fa-instagram{
+    color: white;
+}
